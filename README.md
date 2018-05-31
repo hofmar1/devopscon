@@ -2,3 +2,4 @@
 ## This repo contains basic Maven project with Hello-World WAR file 
 <BR> Ready for Tomcat deployment 
 
+<BR> another line added :-)
